@@ -1,6 +1,6 @@
-# THREE LOCKS (v2, hard mode)
+# THREE LOCKS (v2)
 
-Three locks, one flag: `FLAG{24 hex characters}`.
+Three locks, one flag
 No hints. No partial credit. Guessing is useless.
 
 ## Files
